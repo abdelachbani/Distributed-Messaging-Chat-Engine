@@ -1,0 +1,22 @@
+# Build and Output
+bin/
+build/
+out/
+target/
+*.class
+
+# IDE and Project Files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs and Crash Reports
+*.log
+hs_err_pid*
